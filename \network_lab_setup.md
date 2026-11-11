@@ -5,7 +5,8 @@
 **Operating System:** Kali Linux  
 **Network Configuration:** NAT Network  
 **Network Subnet:** 10.0.0.0/24
-**Thubelihle Moyane
+
+**Thubelihle Moyane**
 
 ## 1. Introduction
 
@@ -14,7 +15,7 @@ This documentation explains the process of setting up a cybersecurity laboratory
 The laboratory uses Kali Linux as the attacking machine. VirtualBox provides the virtualisation platform, allowing the virtual machine to operate independently from the host computer.
 
 Attached is the picture of Kali linux Natnetwork setup
-<img src= "network1.png" width="300">
+<img src= "network1.png" width="500">
 
 ## 2. Lab Requirements
 
