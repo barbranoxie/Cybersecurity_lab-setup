@@ -12,6 +12,8 @@ This documentation explains the process of setting up a cybersecurity laboratory
 
 The laboratory uses Kali Linux as the attacking machine. VirtualBox provides the virtualisation platform, allowing the virtual machine to operate independently from the host computer.
 
+Attached is the picture of Kali linux Natnetwork setup
+<img src= "network1.PNG" width="300">
 ## 2. Lab Requirements
 
 The following software and resources were required:
