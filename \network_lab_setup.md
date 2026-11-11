@@ -172,6 +172,8 @@ This test checks whether DNS name resolution is working.
 
 The connectivity tests confirmed that the virtual machine could communicate with its gateway and access the internet.
 
+<img src= "google.PNG" width="500">
+
 ## 5. Create a Virtual Machine Snapshot
 
 After completing the installation and configuration, a snapshot was created.
